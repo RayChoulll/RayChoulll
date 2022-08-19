@@ -1,7 +1,7 @@
-  🤗 Hello, I’m @RayChoulll.
+  🤗 Hello, I’m @RayChoulll ~
   
-  👀 I’m interested in Artificial Intelligence and Computer Vision, especially in the application of Self-Driving.
+  👀 I’m interested in Deep Learning and Self-Driving, especially in the application of LIDAR.
   
-  🚩 I’m currently learning computer science in HIT, Harbin.
+  🚩 I’m currently studying in HIT, Harbin.
   
-  📫 You can contact me with email mrtangxiaolei@126.com.
+  📫 You can contact me with email: mrtangxiaolei@126.com.
